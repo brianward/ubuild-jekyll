@@ -5,6 +5,12 @@ date: 2018-08-15 00:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
+  navigation:
+  - link_text: Home
+  - link_text: Products
+  - link_text: Services
+  - link_text: About
+  - link_text: Blog
 - template: navigation-header-w-button
   block: header-2
 - template: simple-header

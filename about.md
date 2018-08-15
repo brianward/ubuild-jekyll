@@ -14,6 +14,8 @@ page_sections:
   logo: "/uploads/2018/08/15/logo@2x.png"
 - template: navigation-header-w-button
   block: header-2
+  cta:
+    button_text: This is a button
 - template: simple-header
   block: header-3
 - template: hero-banner-w-image

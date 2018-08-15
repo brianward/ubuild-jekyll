@@ -11,6 +11,7 @@ page_sections:
   - link_text: Services
   - link_text: About
   - link_text: Blog
+  logo: "/uploads/2018/08/15/logo@2x.png"
 - template: navigation-header-w-button
   block: header-2
 - template: simple-header

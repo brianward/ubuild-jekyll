@@ -56,9 +56,16 @@ page_sections:
   block: media-2
 - template: signup-bar
   block: cta-bar
+  content: This is a signup bar
+  email_recipient: brianmatthewward@gmail.com
 - template: simple-footer
   block: footer-1
+  content: Footer goes here.
 - template: 4-column-footer
   block: footer-2
+  col_2: Link 1<br>Link 2
+  col_3: Link 3<br>Link 4
+  col_4: Address here<br>Phone<br>Email
+  image: "/uploads/2018/08/15/logo@2x.png"
 
 ---

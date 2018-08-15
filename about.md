@@ -16,6 +16,12 @@ page_sections:
   block: header-2
   cta:
     button_text: This is a button
+  navigation:
+  - link_text: HOME
+  - link_text: PRODUCTS
+  - link_text: SERVICES
+  - link_text: ABOUT
+  - link_text: BLOG
 - template: simple-header
   block: header-3
 - template: hero-banner-w-image

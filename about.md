@@ -22,6 +22,7 @@ page_sections:
   - link_text: SERVICES
   - link_text: ABOUT
   - link_text: BLOG
+  logo: "/uploads/2018/08/15/logo@2x.png"
 - template: simple-header
   block: header-3
 - template: hero-banner-w-image

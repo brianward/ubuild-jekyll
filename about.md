@@ -29,10 +29,25 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: This is another headline
+  content: 'This is content under this headline. This is content under this headline.
+    This is content under this headline. This is content under this headline. This
+    is content under this headline. <br><br>This is content under this headline. This
+    is content under this headline. This is content under this headline. This is content
+    under this headline. '
 - template: 1-column-text
   block: one-column-1
+  headline: One Column Headline
+  content: 'Text under the headline. Text under the headline. Text under the headline.
+    Text under the headline. Text under the headline. '
 - template: 2-column-text
   block: two-column-1
+  col_1:
+    headline: Headline 1
+    content: content here
+  col_2:
+    headline: Headline 2
+    content: content here
 - template: 3-column-text
   block: three-column-1
 - template: full-width-media-element
